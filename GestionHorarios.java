@@ -146,3 +146,7 @@ public class GestionHorarios {
     }
     
 }
+
+
+// Alvaro daniel Quintero Paba - 192377
+// Yesica Paola Coronel Maldonado - 192306
